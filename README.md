@@ -1,1 +1,1 @@
-# python_traning
+# python_traning Readme file for Python training
